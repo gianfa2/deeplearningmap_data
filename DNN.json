@@ -98,7 +98,7 @@
   ],
   "from" : [4],
   "to" : [],
-  "categories": ["RNN", "LSTM", "Computer Vision"]
+  "categories": ["RNN", "LSTM", "Computer Vision" ]
 }
 
 ]
